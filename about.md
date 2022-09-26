@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+digital producer for web 2,2.5,3. ethnography, research, writing on digital culture. 
 
-### More Information
+### SOCIAL THINGS
 
-A place to include any other types of information that you'd like to include about yourself.
+twitter @guyw_abigtruck
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rei@reionthewall.com](mailto:rei@reionthewallcom)
